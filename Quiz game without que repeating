@@ -92,8 +92,8 @@ def game_ans_working():
         for i in range(0,t_round):
             key=random.choice(list(questions.keys()))
             if key not in app_que:
-            app_que.add(key)
-        #output question no and questions
+                app_que.add(key)
+                #output question no and questions
                 if que<=5:
                     print(que,key,sep=" : ")
                     opt_con_check()
