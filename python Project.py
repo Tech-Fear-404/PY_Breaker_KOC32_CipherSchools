@@ -120,7 +120,7 @@ def game_ans_working():
         if r<5:    
             print("Next Round Will Start in 5sec")
         time.sleep(5)
-    return score,app_que
+    return score
 #--------------------------------------------------------------------------------------------------------------------------------------------------------
 def opt_con_check():
     u_ans=[]
