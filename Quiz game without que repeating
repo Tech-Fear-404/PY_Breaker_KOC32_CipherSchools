@@ -4,7 +4,6 @@ import time
 def game_run():
     Name,Gen,DOB=data_user()
     time_fun()
-    opt_con_check
     f_score=game_ans_working()
     print('\n',"Name of Participant/User is: ",Name,sep="")
     print("Gender : ",Gen)
