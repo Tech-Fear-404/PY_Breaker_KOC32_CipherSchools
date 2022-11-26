@@ -166,6 +166,15 @@ questions={'The Big Apple is a nickname given to Washington D.C in 1971.':'FALSE
 'There are 4 lungs in the human body.':'FALSE',
 'The human skin regenerates once in two weeks.':'FALSE',
 'The liver is the largest internal organ in the human body.':'TRUE',
-'The tongue is the only part of the human body with taste buds.':'FALSE'}
+'The tongue is the only part of the human body with taste buds.':'FALSE'
+'Is Mount Kilimanjaro the world’s tallest peak?':'FALSE',
+'Venezuela is home to the world’s highest waterfall.':'FALSE',
+'Coffee is a berry-based beverage.':'TRUE',
+'he capital of Australia is Sydney.':'FALSE',
+'The United Kingdom is almost the same size as France.':'FALSE',
+'The moon is wider than Australia.':'FALSE',
+'Seahorses have stomachs, which aid in the digestion of food.':'FASLE',
+'In Scotland, the unicorn is their national animal.':'TRUE',
+'The goat is used to symbolize the zodiac sign, Capricorn.':'TRUE'}
 #--------------------------------------------------------------------------------------------------------------------------------------------------------
 game_run()
