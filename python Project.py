@@ -116,7 +116,7 @@ def game_ans_working():
             else:
                 i-=1
                 
-            score=t_score+score
+        score=t_score+score
         if r<5:    
             print("Next Round Will Start in 5sec")
         time.sleep(5)
